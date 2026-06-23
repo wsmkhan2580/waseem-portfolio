@@ -53,16 +53,23 @@ export const skills = {
 // ─── Projects: Replace with your real projects ───
 export const projects = [
   {
-    id: 1,
-    title: "CashFlow — Finance Tracker",
-    description: "A production-grade personal finance tracker with salary tracking, expense management, real-time currency conversion, and PDF export. Built with vanilla JS and Chart.js for a sleek fintech experience.",
-    category: "Frontend",
-    image: null,
-    gradient: "from-cyan-500/20 to-blue-600/20",
-    tech: ["JavaScript", "Chart.js", "jsPDF", "CSS3", "localStorage"],
-    github: "https://github.com/wsmkhan2580/Expense-Tracker.git",
-    live: "https://expense-tracker-eta-wine-70.vercel.app/",
-    featured: true
+id: 1,
+title: "ShopZone Pro — E-Commerce Platform",
+description: "A modern, fully responsive E-Commerce Web Application built with React.js, Tailwind CSS, React Router, Context API, and LocalStorage. Features product browsing, search, cart management, authentication, checkout workflow, and persistent user sessions with a clean, scalable architecture.",
+category: "Frontend",
+image: null,
+gradient: "from-orange-500/20 to-pink-600/20",
+tech: [
+"React.js",
+"React Router DOM",
+"Tailwind CSS",
+"JavaScript (ES6+)",
+"Context API",
+"LocalStorage"
+],
+github: "https://github.com/wsmkhan2580/Shopzone-pro.git",
+live: "https://shopzone-pro-5q7c.vercel.app/",
+featured: true
   },
   {
     id: 2,
