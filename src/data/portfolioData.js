@@ -9,13 +9,13 @@ export const personalInfo = {
   about: `I'm a Full Stack Developer and BCA student passionate about building impactful web applications from the ground up. I specialize in the MERN stack — crafting seamless user interfaces with React and robust server-side logic with Node.js, Express, and MongoDB.
 
   Currently interning as a Full Stack Developer at Prodesk IT, where I build production-grade web apps, while simultaneously running Meta Ads campaigns at Rahgir Travel. I love bridging technical depth with business understanding.`,
-  email: "waseem@example.com",
-  phone: "+91 XXXXX XXXXX",
+  email: "choudharywaseem154@gmail.com",
+  phone: "+91 7055356617",
   location: "Hapur, Uttar Pradesh, India",
   social: {
-    github: "https://github.com/waseem",
+    github: "https://github.com/wsmkhan2580",
     linkedin: "https://linkedin.com/in/waseem",
-    email: "mailto:waseem@example.com",
+    email: "mailto:choudharywaseem154@gmail.com",
     leetcode: "https://leetcode.com/waseem",
     twitter: "https://twitter.com/waseem"
   },
