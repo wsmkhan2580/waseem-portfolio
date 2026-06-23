@@ -17,7 +17,7 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/waseem-ahmad-371084288?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     email: "mailto:choudharywaseem154@gmail.com",
     leetcode: "https://leetcode.com/waseem",
-    twitter: "https://twitter.com/waseem"
+    twitter: "https://x.com/Mr_Waseem_999?t=xLE1pIFKmiueTZ23JXpzdw&s=09"
   },
   resumeUrl: "#"
 }
