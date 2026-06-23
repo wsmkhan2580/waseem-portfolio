@@ -19,9 +19,7 @@ export const personalInfo = {
     leetcode: "https://leetcode.com/waseem",
     twitter: "https://x.com/Mr_Waseem_999?t=xLE1pIFKmiueTZ23JXpzdw&s=09"
   },
-  resumeUrl: "https://drive.google.com/file/d/1jzTRPappQokS1-aQGFicaTMzGs68soLx/view?usp=drivesdk"
-}
-
+  resumeUrl: "https://drive.google.com/uc?export=download&id=1jzTRPappQokS1-aQGFicaTMzGs68soskills"
 export const skills = {
   frontend: [
     { name: "HTML5", level: 92, icon: "html5" },
