@@ -60,8 +60,8 @@ export const projects = [
     image: null,
     gradient: "from-cyan-500/20 to-blue-600/20",
     tech: ["JavaScript", "Chart.js", "jsPDF", "CSS3", "localStorage"],
-    github: "https://github.com/waseem/cashflow",
-    live: "#",
+    github: "https://github.com/wsmkhan2580/Expense-Tracker.git",
+    live: "https://expense-tracker-eta-wine-70.vercel.app/",
     featured: true
   },
   {
