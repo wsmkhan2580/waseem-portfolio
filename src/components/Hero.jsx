@@ -144,14 +144,16 @@ const Hero = () => {
                 View Projects
               </motion.a>
               <motion.a
-                href={personalInfo.resumeUrl}
-                className="btn-outline"
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <FiDownload size={15} />
-                Download Resume
-              </motion.a>
+  href={personalInfo.resumeUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn-outline"
+  whileHover={{ scale: 1.03 }}
+  whileTap={{ scale: 0.98 }}
+>
+  <FiDownload size={15} />
+  Download Resume
+</motion.a>
               <motion.a
                 href="#contact"
                 onClick={(e) => {
