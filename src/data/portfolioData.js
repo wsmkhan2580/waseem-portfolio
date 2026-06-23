@@ -14,7 +14,7 @@ export const personalInfo = {
   location: "Hapur, Uttar Pradesh, India",
   social: {
     github: "https://github.com/wsmkhan2580",
-    linkedin: "https://linkedin.com/in/waseem",
+    linkedin: "https://www.linkedin.com/in/waseem-ahmad-371084288?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     email: "mailto:choudharywaseem154@gmail.com",
     leetcode: "https://leetcode.com/waseem",
     twitter: "https://twitter.com/waseem"
