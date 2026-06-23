@@ -76,7 +76,7 @@ id: 2,
 title: "CoverCraft AI — AI Cover Letter Generator",
 description: "A production-level AI SaaS application that generates ATS-optimized, personalized cover letters in seconds using Google Gemini AI. Features smart PDF resume parsing, instant AI-powered content generation, PDF export, dark/light mode, and secure full-stack architecture.",
 category: "Full Stack",
-image: null,
+image: "https://image.thum.io/get/https://covercraft-ai-l21l.vercel.app",
 gradient: "from-violet-500/20 to-fuchsia-600/20",
 tech: [
 "React.js",
